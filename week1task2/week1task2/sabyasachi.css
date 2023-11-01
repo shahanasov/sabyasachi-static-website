@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+}
+.main_body{
+    background-color: #fff;
+    height: 7000px;
+    width: 100%;
+}
+.header{
+    background-color: #fff;
+    height: 100px;
+    width: 100%;
+}
+.videoplay{
+    height: 796px;
+    width: 100%;
+    object-fit: cover;
+}
+.playthis{
+    width: 100%;
+    height: fit-content;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+.quote{
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 95px;
+}
+.text{
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+}
+.image{
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://sabyasachi.com/cdn/shop/files/D230607-1-009-2_1920x.jpg?v=1693293880);
+    background-color: #ccc;
+}
+.video2{
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    margin-top: 10px;
+}
+.playvideo{
+    width: 1510px;
+    
+}
+.vid1{
+    margin-top: 55px;
+    height: 100%;
+    width: 706px;
+    margin-bottom: 75px;
+}
+.img{
+    width: 100%;
+    height: 1001px;
+    margin-top: 75px;
+    background-image: url(https://sabyasachi.com/cdn/shop/files/D230421-1-053-21_1920x.jpg?v=1694068598);
+}
+.img2{
+    width: 100%;
+    height: 1000px;
+    margin-top: 75px;
+    background-image: url(https://sabyasachi.com/cdn/shop/files/d_M4B0661_web_683812a1-403f-46db-8b3e-c9941f4400c6_1920x.jpg?v=1692595282);
+}
+.img3{
+    width: 100%;
+    height: 1000px;
+    margin-top: 75px;
+    background-image: url(https://sabyasachi.com/cdn/shop/files/D230424-104-050_df0981fb-b243-4db9-ac96-3c7daa5e83bd_1920x.jpg?v=1696671504);
+}
+.img4{
+    width: 100%;
+    height: 1000px;
+    margin-top: 75px;
+    background-image: url(https://sabyasachi.com/cdn/shop/files/D221009_SABYASACHI14880_1920x.jpg?v=1696335498);
+}
+
+.dialogue{
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+}
+.footer{
+    width: 93%;
+    height: 510px;
+    background-color: black;
+    color: #fff;
+    display: flex; 
+    padding: 50px;
+}
+.sabya{
+    padding-top: 800px;
+    padding-left: 4%;
+    color: #fff;
+
+}  
+.sabyatext{
+    text-align: center;
+} 
+.explore{
+    border-color: #fff;
+    text-align: center;
+    color: #fff;
+    padding: 10px 24px;
+    align-items: center;
+    border: 1px solid;
+    cursor: pointer;
+    background-color: transparent;
+    margin-left: 717px;
+}
+.wed{
+    padding-top: 800px;
+    padding-left: 45%;
+    color: #fff;
+}
+.dial{
+    margin-top: 50px;
+    text-align: center;
+}
+.foottext{
+    text-decoration: none;
+    font-size: 1.125rem;
+    line-height: 2.0;
+    padding-right: 100px;
+    list-style: none;
+    font-weight: 500;
+    width: 140px;
+}
+.heading{
+    color: #fff;
+}
+.line:hover{
+    text-decoration: underline;
+}
+.linkof{
+    text-decoration: none;
+    
+}
+
+.nav ul{
+    list-style: none;
+    background-color: #fff;
+    
+    margin: 30px;
+    overflow: hidden;
+    margin-left: 90px;
+}nav li{
+    float: left; 
+}
+
+nav li:hover{
+    text-decoration: underline;
+}
+.navtable{
+    padding-top: 20px;
+    padding-right: 30px;
+    margin-left: 1px;
+}
+.mainhead{
+    text-align: center;
+}
+ul{
+    margin-left: 10px;
+}
+.logoclass{
+    width: 40px;
+    margin-left: 716px;
+}
